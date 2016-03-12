@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>DragonEnclosure.png</file>
+        <file>horntail01.jpg</file>
+        <file>harry on broom.png</file>
+        <file>spell.jpg</file>
+        <file>Fireball-powerup.png</file>
+        <file>horntail.png</file>
+        <file>goldegg.png</file>
+        <file>hpswim.jpg</file>
+        <file>mermaid.jpg</file>
+        <file>l_ron-young-standing.png</file>
+        <file>long_leafy_plant_png_by_alz_stock-d7n0a5u.png</file>
+        <file>cup.png</file>
+        <file>player3.png</file>
+        <file>Bramble_Hedge_Menu.png</file>
+        <file>hedge.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>03 The Quidditch World Cup 2.mp3</file>
+        <file>UnderwaterSong.m4a</file>
+        <file>01 Fireworks.mp3</file>
+    </qresource>
+</RCC>
